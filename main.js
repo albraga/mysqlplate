@@ -12,5 +12,9 @@ mdb.useDB()
 
 mdb.createTable()
 
+mdb.insert()
+
+mdb.select()
+
 mdb.end()
 
